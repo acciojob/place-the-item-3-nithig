@@ -2,8 +2,7 @@
 /* Your CSS Code here. */
 
 .holder {
-  display: flex;
-  flex-direction: row;
+  display:flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
